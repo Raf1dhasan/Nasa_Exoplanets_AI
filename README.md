@@ -72,6 +72,58 @@ This project was created to:
 
 ## How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Raf1dhasan/Nasa_Exoplanets_AI.git
+1. Open `NASA.ipynb` in:
+   - Jupyter Notebook, or
+   - Google Colab
+
+2. Install the required libraries (if not already installed).
+
+3. Run the notebook cells from top to bottom.
+
+---
+
+## What I Did
+
+- Collected and explored NASA open exoplanet datasets.
+- Performed data preprocessing and feature analysis.
+- Built and evaluated a machine learning classification model.
+- Visualized results to better understand predictions.
+- Documented the project for reproducibility and sharing.
+
+---
+
+## What I Learned
+
+- Practical application of machine learning in space science.
+- Handling and preprocessing large scientific datasets.
+- Improving model performance through feature selection.
+- Communicating technical results clearly through visualizations.
+- Working under real-world hackathon constraints.
+
+---
+
+## Future Improvements
+
+- Experiment with advanced models (e.g., XGBoost, Neural Networks).
+- Improve model accuracy with hyperparameter tuning.
+- Add a web interface for user interaction.
+- Allow users to upload new datasets for prediction.
+- Deploy the model as an interactive web application.
+
+---
+
+## Certificate
+
+🏅 **NASA Space Apps Challenge 2025 – Global Nominee**  
+(Participant certificate available)
+
+---
+
+## Contact
+
+If you’d like to learn more about this project or discuss opportunities, feel free to reach out:
+
+- **Email:** rafidhasan202@gmail.com  
+- **GitHub:** https://github.com/Raf1dhasan
+
+   
