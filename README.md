@@ -112,6 +112,9 @@ This project was created to:
 
 ---
 
+<img width="2542" height="1224" alt="image" src="https://github.com/user-attachments/assets/7cdd1961-03cf-4ad5-a28e-6520b56dee71" />
+
+
 ## Certificate
 
 🏅 **NASA Space Apps Challenge 2025 – Global Nominee**  
