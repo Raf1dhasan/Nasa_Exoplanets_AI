@@ -112,7 +112,18 @@ This project was created to:
 
 ---
 
+
+## Screenshots
+
 <img width="2542" height="1224" alt="image" src="https://github.com/user-attachments/assets/7cdd1961-03cf-4ad5-a28e-6520b56dee71" />
+<img width="2540" height="1226" alt="image" src="https://github.com/user-attachments/assets/683fbc8c-fe2b-4432-b62e-230bd63b181b" />
+<img width="2538" height="743" alt="image" src="https://github.com/user-attachments/assets/f2e50e2c-d3ec-4db9-ba86-41bb620d08af" />
+<img width="2549" height="1236" alt="image" src="https://github.com/user-attachments/assets/8d62c651-e768-43f9-ac81-b559248efe52" />
+<img width="2453" height="1229" alt="image" src="https://github.com/user-attachments/assets/2589a6ed-a47c-49a5-bee2-5208c619aa90" />
+
+---
+
+
 
 
 ## Certificate
